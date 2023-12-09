@@ -18,7 +18,8 @@ O resultado será exibido no console.
 ## Tecnologias Utilizadas
 Python: Linguagem de programação utilizada para desenvolver a calculadora.
 
-##Contato
-Email: mahtostes.dev@gmail.com
-LinkedIn: LinkedIn - Marília Ribeiro Tostes
-Whatsapp: Fale comigo!
+## Contato
+
+- **Email:** mahtostes.dev@gmail.com
+- **LinkedIn:** [LinkedIn - Marília Ribeiro Tostes](https://www.linkedin.com/in/marilia-ribeiro-tostes/)
+- **Whatsapp:** [Fale comigo!](https://wa.me/5567981443147)
