@@ -11,6 +11,8 @@ Ao executar o script, você será solicitado a inserir o primeiro número e esco
 - **Potenciação (5):** Elevação do primeiro número à potência do segundo.  
 - **Raiz Quadrada (6):** Cálculo da raiz quadrada do primeiro número.  
 - **Logaritmo (7):** Cálculo do logaritmo em base 10 do primeiro número.  
+
+
 O resultado será exibido no console.
 
 ## Tecnologias Utilizadas
