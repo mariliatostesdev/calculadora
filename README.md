@@ -16,7 +16,7 @@ Ao executar o script, você será solicitado a inserir o primeiro número e esco
 O resultado será exibido no console.
 
 ## Tecnologias Utilizadas
-Python: Linguagem de programação utilizada para desenvolver a calculadora.
+Python
 
 ## Contato
 
